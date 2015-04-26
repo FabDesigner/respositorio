@@ -1,0 +1,12 @@
+D:\CSharp\MyDeD\MyDeD\bin\Debug\MyDeD.exe.config
+D:\CSharp\MyDeD\MyDeD\bin\Debug\MyDeD.exe
+D:\CSharp\MyDeD\MyDeD\bin\Debug\MyDeD.pdb
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.csprojResolveAssemblyReference.cache
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.Form1.resources
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.Properties.Resources.resources
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.csproj.GenerateResource.Cache
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.exe
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.pdb
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.Portais.resources
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.VidaPessoal.resources
+D:\CSharp\MyDeD\MyDeD\obj\Debug\MyDeD.Voce.resources
